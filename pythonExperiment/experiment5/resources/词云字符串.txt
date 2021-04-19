@@ -1,0 +1,4 @@
+string = 'With the improving of semiconductor technology, a single chip integrates more and more processing cores. Highly parallel applications are distributed to tens of processing units. The inter-processor communication delay becomes more and more important for parallel applications.'
+
+string = '编写程序就是用计算机语言实现算法的过程。可以证明，任何问题都可以由三种基本
+结构表达出来。这三种基本结构包括顺序结构、选择结构和循环结构。'
