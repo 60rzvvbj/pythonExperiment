@@ -1,0 +1,6 @@
+f = open('resources/test.txt', 'w')
+f.write(str(12345))
+f.close()
+f = open('resources/test.dat', 'w')
+f.write(str(12345))
+f.close()
